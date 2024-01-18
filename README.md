@@ -17,7 +17,7 @@ The model architecture is based on a deep neural network designed for facial fea
 
 ## Installation
 
-Need to istall the basic requiremnemts like CV2
+Need to install the basic requirements like CV2
  " pip install opencv-python "
 
 ## Usage
